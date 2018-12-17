@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*__pycache__
+*Cat_Dog_data
+*data
+*.pt
+*/flower_data
